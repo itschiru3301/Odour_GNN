@@ -39,7 +39,7 @@ git https://github.com/itschiru3301/Odour_GNN.git
 cd ./Odour-GNN
 python3 -m venv venv 
 source venv/bin/activate
-pip3 install -r ./requirements.txt
+pip3 install  -r ./requirements.txt
 ```
 
 
