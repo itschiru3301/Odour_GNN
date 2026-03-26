@@ -35,7 +35,7 @@ pip = 24.2
 
 Run the following in terminal
 ```bash
-git https://github.com/vansh2308/Odour-GNN.git
+git https://github.com/itschiru3301/Odour_GNN.git
 cd ./Odour-GNN
 python3 -m venv venv 
 source venv/bin/activate
